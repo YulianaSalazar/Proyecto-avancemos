@@ -1,0 +1,47 @@
+.seis{
+
+    box-shadow: rgba(0, 0, 0, 0.342) 1px 1px 10px;
+    margin-top: 5%;
+    margin-left: 20%;
+    border-radius: 0.5rem;
+    height: 57%;
+    }
+    
+    .siete{
+        background-color: rgb(50, 138, 252);
+        height: 50px;
+        width: 96%;
+        border-radius: 0.5rem;
+        text-align: center;
+        box-shadow: rgba(0, 0, 0, 0.164) 1px 1px 15px;
+    }
+    
+    .ocho{
+    box-shadow: rgba(0, 0, 0, 0.322) 1px 1px 5px;
+    margin-top: 2%;
+    margin-left: 20%;
+    border-radius: 0.2rem;  
+    margin-left: 28%;
+    height: 95%;
+    width: 45%;
+    }
+    
+    .avatar{
+        width: 20%;
+        margin-left: 40%;
+        margin-top: 5%;
+    }
+    
+    .textcuatro{
+        padding-top: 5%;
+    }
+    
+    .separadordos{
+        margin-top: 5%;
+        border-top: rgb(184, 184, 184) solid 1px;
+    }
+    
+    .abajodos{
+        padding-top: 50px;
+        text-align: left;
+    }

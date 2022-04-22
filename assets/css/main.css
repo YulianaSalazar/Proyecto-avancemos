@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    background-image: url(../img/imagen\ paisaje.avif);
+}
+.content{
+    padding: 2rem;
+    position:relative;
+    height: 50vh;
+    width: 30%;
+}
+.a{
+    color:red;
+}
+
+.container{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    padding-top:15rem;
+   
+}
+.card{
+    position: relative;
+    
+}
+.boton{
+    margin-left: 13px;
+}
+#recuerdame{
+    padding-right: 14rem;
+}
+.text{
+    padding-top: 10%;
+}
+
+.uno{
+    margin-top: 3%;
+}
